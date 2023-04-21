@@ -1,0 +1,17 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(95, 92, 92);
+    color: white;
+    padding-top: 10px;
+    }
+
+    p{margin-top: 20px;}
+
+    .link{
+        color: red;
+    }
+
+    .link:hover{
+        color: white;
+    }
